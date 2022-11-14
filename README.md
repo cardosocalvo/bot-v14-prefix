@@ -7,5 +7,5 @@
     "mongoURL": "Your MongoDB URL"
 }
 ```
-### Template by: cardoso#
-### Parte da MongoDB: Aubrey#2981
+### Template by: `cardoso#2438`
+### Parte da MongoDB: `Aubrey#2981`
